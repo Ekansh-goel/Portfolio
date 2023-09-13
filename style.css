@@ -3,6 +3,28 @@ body {
   padding: auto;
   background-color: black;
   color: azure;
-  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
   font-size: x-large;
+}
+a:link {
+  color: azure;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: azure;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: azure;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.links {
+  text-decoration: underline;
 }
